@@ -13,6 +13,8 @@ X-PID-Arduino-Serial-Sabertooth
         WARNING: Don't wiring GND of B- with GND of arduino.
         
         More detail in link: http://ud09_148.ud09.udmedia.de/forum/viewtopic.php?f=39&t=1554
-        
+
+VIDEO YOUTUBE:   http://youtu.be/KR162HuEq_k
+
         Autor: Riclamer
         **********************************************
